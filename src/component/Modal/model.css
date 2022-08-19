@@ -1,0 +1,59 @@
+.main-contanier{
+    width: 100%;
+    height: 100%;
+}
+.Modal-contanier{
+    position: fixed;
+    top: 5%;
+    left: 34%;
+    max-width: 550px;
+    height: fit-content;
+    border-radius: 5px;
+    z-index: 9;
+    background-color: white;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.cross {
+    height: 30px;
+        padding-top: 10px;
+    background-color: white;
+    color: #A6B0BA;
+    text-align: right;
+    padding-right: 20px;
+}
+.modal-infomation{
+    padding: 20px 30px;
+}
+.modal-bg-div{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #7F7F7F;
+    opacity: 0.6;
+}
+.imgdiv{
+    width: 100%;
+    height: 300px;
+}
+img{
+    width: 100%;
+        height: 100%;
+}
+.avtarimg{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.avtardiv{
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.authordetails{
+    display: flex;
+    color: #A6B0BA;
+    
+}
